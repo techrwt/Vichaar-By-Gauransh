@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>विचार — By Gauransh</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Full-Screen Opening Animation Overlay -->
+  <div class="opening-overlay" id="openingOverlay">
+    <div class="typing-container">
+      <div class="typing-text gradient-text" id="typingText">कुछ बातें…</div>
+      <button class="enter-btn" onclick="enterWebsite()">अंदर आइए →</button>
+    </div>
+  </div>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="logo">विचार</a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-item-home active">होम</a></li>
+        <li><a href="thoughts.html" class="nav-item-thoughts">विचार</a></li>
+        <li><a href="articles.html" class="nav-item-articles">लेख</a></li>
+        <li><a href="search.html" class="nav-item-search">खोजें</a></li>
+        <li><a href="random.html" class="nav-item-random">कुछ भी पढ़ें</a></li>
+        <li><a href="about.html" class="nav-item-about">मेरे बारे में</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container">
+      <h1 class="hero-title gradient-text">विचार</h1>
+      <p class="hero-subtitle">शब्द मेरे हैं, एहसास शायद आपके।</p>
+    </div>
+  </section>
+
+  <!-- Main Content Area -->
+  <main class="container section-spacing">
+    <h2 class="section-title">आज का विचार</h2>
+    <div class="content-grid">
+      <a href="#" id="homeThought" class="glass-card">
+        <!-- Dynamically Loaded via JS -->
+      </a>
+    </div>
+
+    <h2 class="section-title" style="margin-top: 4rem;">आज का लेख</h2>
+    <div class="content-grid">
+      <a href="#" id="homeArticle" class="glass-card">
+        <!-- Dynamically Loaded via JS -->
+      </a>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p class="footer-quote">"शब्द मेरे हैं, एहसास शायद आपके।"</p>
+      <p class="footer-author">— Gauransh Rawat</p>
+      <p class="footer-copy">&copy; 2026 विचार. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

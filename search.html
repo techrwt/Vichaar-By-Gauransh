@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>विचार — Search</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="logo">विचार</a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-item-home">होम</a></li>
+        <li><a href="thoughts.html" class="nav-item-thoughts">विचार</a></li>
+        <li><a href="articles.html" class="nav-item-articles">लेख</a></li>
+        <li><a href="search.html" class="nav-item-search active">खोजें</a></li>
+        <li><a href="random.html" class="nav-item-random">कुछ भी पढ़ें</a></li>
+        <li><a href="about.html" class="nav-item-about">मेरे बारे में</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <!-- Search Header -->
+  <section class="hero-section" style="padding: 140px 0 20px 0;">
+    <div class="container">
+      <h1 class="hero-title gradient-text">खोजें</h1>
+      <p class="hero-subtitle">अपने मनपसंद विचार या लेख को खोजें।</p>
+    </div>
+  </section>
+
+  <!-- Search Input Area -->
+  <main class="container section-spacing" style="padding-top: 20px;">
+    <div class="search-input-wrapper">
+      <input type="text" id="searchInput" class="search-bar" placeholder="विचार या लेख खोजें..." autocomplete="off">
+    </div>
+
+    <!-- Search Results Grid -->
+    <div id="searchResults">
+      <!-- Dynamically Loaded via JS -->
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p class="footer-quote">"शब्द मेरे हैं, एहसास शायद आपके।"</p>
+      <p class="footer-author">— Gauransh Rawat</p>
+      <p class="footer-copy">&copy; 2026 विचार. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

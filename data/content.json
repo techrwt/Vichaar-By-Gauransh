@@ -1,0 +1,42 @@
+[
+  {
+    "id": "thought-2026-01",
+    "type": "thought",
+    "date": "2026-08-14",
+    "featured": true,
+    "title_hi": "कभी-कभी रुकना भी जरूरी है",
+    "title_en": "Sometimes, It Is Important to Pause",
+    "content_hi": "जिंदगी की भागदौड़ में हम अक्सर खुद को भूल जाते हैं। थमिए, सांस लीजिए, और महसूस कीजिए कि आप कहां तक आ गए हैं। मंजिल से ज्यादा खूबसूरत सफर तब बनता है जब हम रास्ते के हर एक पल को जीते हैं।",
+    "content_en": "In the hustle and bustle of life, we often forget ourselves. Pause, take a breath, and realize how far you've come. The journey becomes more beautiful than the destination when we live every single moment along the way."
+  },
+  {
+    "id": "thought-2026-02",
+    "type": "thought",
+    "date": "2026-08-13",
+    "featured": false,
+    "title_hi": "शब्दों का वजन",
+    "title_en": "The Weight of Words",
+    "content_hi": "कहे हुए शब्द हवा में घुल जाते हैं, पर छोड़े गए निशान दिलों पर उम्र भर रहते हैं। किसी से बात करते वक्त हमेशा सोचिए कि आपके अल्फ़ाज़ सामने वाले पर क्या असर छोड़ेंगे।",
+    "content_en": "Spoken words dissolve into the air, but the impressions they leave stay on hearts forever. Always think about how your words will impact someone before you speak them."
+  },
+  {
+    "id": "article-2026-01",
+    "type": "article",
+    "date": "2026-08-14",
+    "featured": true,
+    "title_hi": "खामोशी की ताकत: शोर से भरी दुनिया में शांति की तलाश",
+    "title_en": "The Power of Silence: Finding Peace in a Noisy World",
+    "content_hi": "आज की दुनिया में हर तरफ शोर है—गाड़ियों का, विचारों का, सोशल मीडिया की नोटिफिकेशन का। इस भागदौड़ के बीच, खामोशी कोई कमजोरी नहीं बल्कि एक बहुत बड़ी शक्ति है। जब हम बाहरी दुनिया के शोर से कटकर अपनी अंदर की आवाज सुनते हैं, तो हमें सच्चे जवाब मिलते हैं। खामोशी हमें खुद से मिलाने का जरिया है। इसे अपनाइए, और देखिए कैसे आपकी जिंदगी का नजरिया बदलने लगता है।",
+    "content_en": "In today's world, there is noise everywhere—of vehicles, of thoughts, of social media notifications. Amidst this hustle, silence is not a weakness but a profound power. When we disconnect from the noise of the outer world and listen to our inner voice, we find true answers. Silence is a medium to reconnect with yourself. Embrace it, and watch how your perspective on life begins to change."
+  },
+  {
+    "id": "article-2026-02",
+    "type": "article",
+    "date": "2026-08-12",
+    "featured": false,
+    "title_hi": "वक्त और इंसान: जो बदलता नहीं, वह पीछे छूट जाता है",
+    "title_en": "Time and Humanity: What Doesn't Change Gets Left Behind",
+    "content_hi": "वक्त सबसे बड़ा शिक्षक है। यह किसी के लिए नहीं रुकता। जो लोग वक्त के साथ खुद को ढालना सीख जाते हैं, वे हर परिस्थिति में रास्ता बना लेते हैं। ठहराव जरूरी है, लेकिन जड़ता नुकसानदेह है। सीखना और बदलते रहना ही जीवन का दूसरा नाम है।",
+    "content_en": "Time is the greatest teacher. It waits for no one. Those who learn to adapt themselves with time carve a path in every situation. Stillness is necessary, but stagnation is harmful. Learning and continuously evolving is another name for life."
+  }
+]
