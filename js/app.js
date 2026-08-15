@@ -198,8 +198,7 @@ function initOpeningAnimation() {
 /* Fetch JSON Data */
 async function fetchContent() {
   try {
-    let response = await fetch('./data/content.json');
-    if (!response.ok) throw new Error('Network response was not ok');
+let response = await fetch(window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '') + '/data/content.json');    if (!response.ok) throw new Error('Network response was not ok');
     return await response.json();
   } catch (error) {
     console.error('Error loading content:', error);
